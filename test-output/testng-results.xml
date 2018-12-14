@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-14T19:42:02Z" name="Default suite" finished-at="2018-12-14T19:42:02Z" duration-ms="106">
+    <groups>
+    </groups>
+    <test started-at="2018-12-14T19:42:02Z" name="Default test" finished-at="2018-12-14T19:42:02Z" duration-ms="106">
+      <class name="testNGTut.ClassA">
+        <test-method is-config="true" signature="bfclass()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="bfclass" finished-at="2018-12-14T19:42:02Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfclass -->
+        <test-method signature="test1()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="test1" finished-at="2018-12-14T19:42:02Z" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="bf()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="bf" finished-at="2018-12-14T19:42:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method is-config="true" signature="bf()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="bf" finished-at="2018-12-14T19:42:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method signature="test2()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="test2" finished-at="2018-12-14T19:42:02Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="test3" finished-at="2018-12-14T19:42:02Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="bf()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="bf" finished-at="2018-12-14T19:42:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method is-config="true" signature="afclass()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="afclass" finished-at="2018-12-14T19:42:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afclass -->
+        <test-method is-config="true" signature="af()[pri:0, instance:testNGTut.ClassA@26b3fd41]" started-at="2018-12-14T19:42:02Z" name="af" finished-at="2018-12-14T19:42:02Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+      </class> <!-- testNGTut.ClassA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
