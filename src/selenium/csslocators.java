@@ -24,6 +24,9 @@ public class csslocators {
 		//driver.findElement(By.cssSelector("input[etitle='To']")).sendKeys("CCU");
 		driver.findElement(By.cssSelector("input#ToTag")).sendKeys("CCU");
 		
+		//Print data from web element
+		System.out.println(driver.findElement(By.cssSelector("#flightsHomeFlashSaleBanner")).getText());
+		
 		driver.quit();
 		
 		
